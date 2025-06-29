@@ -1,6 +1,6 @@
 # 🏥 نظام إدارة المرضى في العيادات الطبية - Clinic Patient Management System
 
-نظام احترافي ومتكامل يساعد العيادات والمراكز الطبية في تنظيم بيانات المرضى، ومتابعة الحالات، وإدارة التقارير والوصفات الطبية، مع ميزات شاملة تسهل عمل الطاقم الطبي والإداري.
+نظام متكامل يساعد العيادات والمراكز الطبية في تنظيم بيانات المرضى، ومتابعة الحالات، وإدارة التقارير والوصفات الطبية، مع ميزات شاملة تسهل عمل الطاقم الطبي والإداري.
 
 ---
 
@@ -46,16 +46,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://i.postimg.cc/59R3KSnW/image.png" width="300"/></td>
-      <td><img src="https://i.postimg.cc/2S476RmC/image.png" width="300"/></td>
+      <td><img src="https://i.postimg.cc/59R3KSnW/image.png" width="100%"/></td>
+      <td><img src="https://i.postimg.cc/2S476RmC/image.png" width="100%"/></td>
     </tr>
     <tr>
-      <td><img src="https://i.postimg.cc/7LwMJsY0/image.png" width="300"/></td>
-      <td><img src="https://i.postimg.cc/K8N0ZknZ/image.png" width="300"/></td>
+      <td><img src="https://i.postimg.cc/7LwMJsY0/image.png" width="100%"/></td>
+      <td><img src="https://i.postimg.cc/K8N0ZknZ/image.png" width="100%"/></td>
     </tr>
     <tr>
-      <td><img src="https://i.postimg.cc/3wxnW8B2/image.png" width="300"/></td>
-      <td><img src="https://i.postimg.cc/K8F9Sr3q/image.png" width="300"/></td>
+      <td><img src="https://i.postimg.cc/3wxnW8B2/image.png" width="100%"/></td>
+      <td><img src="https://i.postimg.cc/K8F9Sr3q/image.png" width="100%"/></td>
     </tr>
   </table>
 </div>
